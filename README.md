@@ -1,35 +1,23 @@
 <h1 align="center">Hi 👋, I'm Abdur Rahim</h1>
-<h2 align="center">Deployment Engineer</h2>
+<h2 align="center">Deployment Engineer with 3+ years of Experience</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abrahimcse&label=Profile%20views&color=0e75b6&style=flat" alt="abrahimcse" /> </p>
 
-- 🔭 I’m currently working on **National Institute of Traumatology and Orthopaedic Rehabilitation (NITOR)**
+### Optimizing Workflows for a Smarter Tomorrow
 
-- 🌱 I’m currently learning **RHCSA, RHCE, CCNA, Cybersecurity, Spring Boot, Java, SQL**
+`Passionate` about DevOps and committed to continuous learning and application of `DevOps principles`. Proficient in configuring `firewalls`, particularly within `Linux environments`. Experienced with `Bahmni`, `OpenMRS`, `Odoo`, `SQL`, and report design using `BIRT` and `Jasper Reports`.
 
-- 👯 I’m looking to collaborate on **National Institute of Cardiovascular Diseases (NICVD)**
+🔍 `Interests:` DevOps, Linux system administration, automation, continuous integration and deployment (CI/CD), and cloud technologies.
 
-- 🤝 I’m looking for help with **DevOps and constantly seeking opportunities**
+Currently seeking a full-time position in the IT industry where I can leverage my creativity, analytical skills, problem-solving abilities, leadership experience, and effective communication.
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/abrahimcse/](www.linkedin.com/in/abrahimcse/)
+### What I Do:
+- **End-to-End DevOps Practices :** Implementing CI/CD pipelines, infrastructure as code, and automation to streamline software delivery.
+- **Cloud Solutions:** Designing and managing cloud infrastructure (AWS, Azure, etc.) for scalable and reliable application hosting.
+- **Monitoring & Optimization :** Utilizing tools for performance monitoring and system optimization to ensure high availability and reliability.
+- **Collaboration & Culture :** Promoting a culture of collaboration between development and operations, fostering continuous improvement and innovation.
 
-- 💬 Ask me about **Deployment**
-
-- 📫 How to reach me **abrahimcse@gmail.com**
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/abrahimcse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abrahimcse" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abrahimcse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abrahimcse" height="30" width="40" /></a>
-<a href="https://fb.com/abrahimcse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abrahimcse" height="30" width="40" /></a>
-<a href="https://instagram.com/abrahimcse1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abrahimcse1" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/abrahimcse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abrahimcse" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abrahimcse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abrahimcse" height="30" width="40" /></a>
-<a href="https://discord.gg/abrahimcse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="abrahimcse" height="30" width="40" /></a>
-</p>
-
-
-<h3 align="center">Familiar with the languages and tools:</h3>
+<h3 align="center">Familiar with the Languages and Tools:</h3>
 
 <p align="center">
 <div align="center">
@@ -54,8 +42,26 @@
 <code><img height="40" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 </div></p>
 
-
-
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrahimcse&show_icons=true&locale=en&layout=compact" alt="abrahimcse" /></p>
 </div>
+
+
+### Let’s Connect with me
+<div align="center">
+  <p align="center">
+If you're passionate about DevOps, automation, and building efficient systems, or if you're looking to collaborate on innovative projects, feel free to connect! Let’s drive the future of technology together.
+	
+   [![Linkedin Badge](https://img.shields.io/badge/-abrahimcse-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abrahimcse/)](https://www.linkedin.com/in/abrahimcse/) 
+   [![Gmail Badge](https://img.shields.io/badge/-abrahimcse-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abrahimcse@gmail.com)](mailto:abrahimcse@gmail.com)
+   [![Instagram Badge](https://img.shields.io/badge/-abrahimcse-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/abrahimcse1/)](https://instagram.com/abrahimcse1/) 
+   [![Facebook Badge](https://img.shields.io/badge/-abrahimcse-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/abrahimcse/)](https://www.facebook.com/abrahimcse/)
+	[![Twitter Badge](https://img.shields.io/badge/-@abrahimcse-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/abrahimcse)](https://twitter.com/abrahimcse)
+  </p>
+</div>
+<div align="center">
+  
+### Thank for Visingting
+
+</div>
+
