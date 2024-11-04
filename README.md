@@ -68,7 +68,7 @@ If you're passionate about DevOps, automation, and building efficient systems, o
 </div>
 <div align="center">
   
-### Thank for Visingting
+### Thank for Visiting 🏃‍♂️
 
 </div>
 
