@@ -5,7 +5,7 @@
 
 ### Optimizing Workflows for a Smarter Tomorrow
 
-`Passionate` about DevOps and committed to continuous learning and application of `DevOps principles`. Proficient in configuring `firewalls`, particularly within `Linux environments`. Experienced with `Bahmni`, `OpenMRS`, `Odoo`, `SQL`, and report design using `BIRT` and `Jasper Reports`.
+❤️‍🔥 Passionate about DevOps and committed to continuous learning and application of DevOps principles. Proficient in configuring firewalls, particularly within Linux environments. Experienced with Bahmni, OpenMRS, Odoo, SQL, and report design using BIRT and Jasper Reports.
 
 🔍 `Interests:` DevOps, Linux system administration, automation, continuous integration and deployment (CI/CD), and cloud technologies.
 
@@ -39,12 +39,12 @@ I am eager to leverage my deployment expertise and technical skills to drive eff
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" ></code>
 <code><img height="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"></code>
 <code><img height="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
-<code><img height="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"></code>
-<code><img height="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" ></code>
 <code><img height="40" src= "https://bashlogo.com/img/logo/jpg/full_colored_light.jpg"></code>
 <code><img height="40" src= "https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg"></code>
 <code><img height="40" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"></code>
+<code><img height="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"></code>
 <code><img height="40" src= "https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"></code>
 <code><img height="40" src= "https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></code>
 </div></p>
