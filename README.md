@@ -29,24 +29,24 @@ I am eager to leverage my deployment expertise and technical skills to drive eff
 <p align="center">
 <div align="center">
 <code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" ></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" ></code>
-<code><img height="40" src= "https://bashlogo.com/img/logo/jpg/full_colored_light.jpg"></code>
-<code><img height="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
-<code><img height="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
-<code><img height="40" src= "https://www.vectorlogo.zone/logos/springio/springio-icon.svg"></code>
 <code><img height="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" ></code>
 <code><img height="40" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"></code>
-<code><img height="40" src= "https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"></code>
-<code><img height="40" src= "https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></code>
-<code><img height="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
+<code><img height="40" src= "https://www.vectorlogo.zone/logos/springio/springio-icon.svg"></code>
 <code><img height="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" ></code>
 <code><img height="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"></code>
+<code><img height="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
+<code><img height="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"></code>
+<code><img height="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" ></code>
+<code><img height="40" src= "https://bashlogo.com/img/logo/jpg/full_colored_light.jpg"></code>
 <code><img height="40" src= "https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg"></code>
 <code><img height="40" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="40" src= "https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"></code>
+<code><img height="40" src= "https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></code>
 </div></p>
 
 <div align="center">
