@@ -10,7 +10,7 @@
 🔍 `Interests:` DevOps, Linux system administration, automation, continuous integration and deployment (CI/CD), and cloud technologies.
 
 Currently seeking a full-time position in the IT industry where I can leverage my creativity, analytical skills, problem-solving abilities, leadership experience, and effective communication.
-### Qualifications:
+### Qualifications :
 - Extensive experience in deploying applications across various environments, ensuring smooth transitions from development to production.
 - Proficient in implementing CI/CD pipelines to automate deployment processes and enhance efficiency.
 - Strong knowledge of containerization and orchestration technologies, including Docker and Kubernetes, to optimize deployment workflows.
@@ -18,13 +18,13 @@ Currently seeking a full-time position in the IT industry where I can leverage m
   
 I am eager to leverage my deployment expertise and technical skills to drive efficiency and innovation in progressive organizations. Let's collaborate to elevate deployment practices and enhance software delivery.
 
-### What I Do
+### What I Do :
 - **End-to-End DevOps Practices :** Implementing CI/CD pipelines, infrastructure as code, and automation to streamline software delivery.
 - **Cloud Solutions:** Designing and managing cloud infrastructure (AWS, Azure, etc.) for scalable and reliable application hosting.
 - **Monitoring & Optimization :** Utilizing tools for performance monitoring and system optimization to ensure high availability and reliability.
 - **Collaboration & Culture :** Promoting a culture of collaboration between development and operations, fostering continuous improvement and innovation.
 
-<h3 align="center">Familiar with the Languages and Tools:</h3>
+<h3 align="center">Familiar with the Languages and Tools</h3>
 
 <p align="center">
 <div align="center">
@@ -55,12 +55,10 @@ I am eager to leverage my deployment expertise and technical skills to drive eff
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrahimcse&show_icons=true&locale=en&layout=compact" alt="abrahimcse" /></p>
 </div>
 
-### Abdur Rahim's GitHub stats
+<h3 align="center">GitHub Stats</h3>
 
 <div align="center">
-    
-<!-- ![Abdur Rahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=abrahimcse&count_private=true&show_icons=true&theme=tokyonight)
-    
+        
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrahimcse)](https://github.com/abrahimcse/github-readme-stats) -->
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abrahimcse&theme=nightowl" /></p>
 <img src="https://github-readme-stats.vercel.app/api?username=abrahimcse&show_icons=true&count_private=true&theme=nightowl" />
