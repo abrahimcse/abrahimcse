@@ -24,7 +24,7 @@ I am eager to leverage my deployment expertise and technical skills to drive eff
 - **Monitoring & Optimization :** Utilizing tools for performance monitoring and system optimization to ensure high availability and reliability.
 - **Collaboration & Culture :** Promoting a culture of collaboration between development and operations, fostering continuous improvement and innovation.
 
-<h3 align="center">Familiar with the Languages and Tools</h3>
+### Familiar with the Languages and Tools
 
 <p align="center">
 <div align="center">
@@ -55,7 +55,7 @@ I am eager to leverage my deployment expertise and technical skills to drive eff
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrahimcse&show_icons=true&locale=en&layout=compact" alt="abrahimcse" /></p>
 </div>
 
-<h3 align="center">GitHub Stats</h3>
+### GitHub Stats
 
 <div align="center">
 
