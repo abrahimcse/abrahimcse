@@ -54,7 +54,21 @@ I am eager to leverage my deployment expertise and technical skills to drive eff
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrahimcse&show_icons=true&locale=en&layout=compact" alt="abrahimcse" /></p>
 </div>
+**Github Stats:**
 
+<div align="center">
+    
+<!-- ![Abdur Rahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=abrahimcse&count_private=true&show_icons=true&theme=tokyonight)
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrahimcse)](https://github.com/abrahimcse/github-readme-stats) -->
+ <p>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abrahimcse&theme=nightowl" />
+    </p>
+<img src="https://github-readme-stats.vercel.app/api?username=abrahimcse&show_icons=true&count_private=true&theme=nightowl" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=abrahimcse&theme=nightowl" />
+    
+</div>
 --- 
 ### Let’s Connect with me
 <div align="center">
@@ -65,7 +79,7 @@ If you're passionate about DevOps, automation, and building efficient systems, o
    [![Gmail Badge](https://img.shields.io/badge/-abrahimcse-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abrahimcse@gmail.com)](mailto:abrahimcse@gmail.com)
    [![Instagram Badge](https://img.shields.io/badge/-abrahimcse-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/abrahimcse1/)](https://instagram.com/abrahimcse1/) 
    [![Facebook Badge](https://img.shields.io/badge/-abrahimcse-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/abrahimcse/)](https://www.facebook.com/abrahimcse/)
-	[![Twitter Badge](https://img.shields.io/badge/-@abrahimcse-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/abrahimcse)](https://twitter.com/abrahimcse)
+   [![Twitter Badge](https://img.shields.io/badge/-@abrahimcse-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/abrahimcse)](https://twitter.com/abrahimcse)
   </p>
 </div>
 <div align="center">
