@@ -59,7 +59,6 @@ I am eager to leverage my deployment expertise and technical skills to drive eff
 
 <div align="center">
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abrahimcse&theme=nightowl" /></p>
 <img src="https://github-readme-stats.vercel.app/api?username=abrahimcse&show_icons=true&count_private=true&theme=nightowl" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=abrahimcse&theme=nightowl" />
     
