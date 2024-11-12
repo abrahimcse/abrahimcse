@@ -10,7 +10,7 @@
 🔍**Interests:** DevOps, Linux system administration, automation, continuous integration and deployment (CI/CD), and cloud technologies.
 
 Currently seeking a full-time position in the IT industry where I can leverage my creativity, analytical skills, problem-solving abilities, leadership experience, and effective communication.
-### 🎓Qualifications :
+### 🎓Qualifications 
 - Extensive experience in deploying applications across various environments, ensuring smooth transitions from development to production.
 - Proficient in implementing CI/CD pipelines to automate deployment processes and enhance efficiency.
 - Strong knowledge of containerization and orchestration technologies, including Docker and Kubernetes, to optimize deployment workflows.
@@ -18,7 +18,7 @@ Currently seeking a full-time position in the IT industry where I can leverage m
 	  
 I am eager to leverage my deployment expertise and technical skills to drive efficiency and innovation in progressive organizations. Let's collaborate to elevate deployment practices and enhance software delivery.
 
-### 💻What I Do :
+### 💻What I Do 
 - **End-to-End DevOps Practices :** Implementing CI/CD pipelines, infrastructure as code, and automation to streamline software delivery.
 - **Cloud Solutions:** Designing and managing cloud infrastructure (AWS, Azure, etc.) for scalable and reliable application hosting.
 - **Monitoring & Optimization :** Utilizing tools for performance monitoring and system optimization to ensure high availability and reliability.
