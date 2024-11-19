@@ -20,7 +20,7 @@ I am eager to leverage my deployment expertise and technical skills to drive eff
 
 ### 💻What I Do 
 - **End-to-End DevOps Practices :** Implementing CI/CD pipelines, infrastructure as code, and automation to streamline software delivery.
-- **Cloud Solutions:** Designing and managing cloud infrastructure (AWS, Azure, etc.) for scalable and reliable application hosting.
+- **Cloud Solutions:** Designing and managing cloud infrastructure AWS for scalable and reliable application hosting.
 - **Monitoring & Optimization :** Utilizing tools for performance monitoring and system optimization to ensure high availability and reliability.
 - **Collaboration & Culture :** Promoting a culture of collaboration between development and operations, fostering continuous improvement and innovation.
 
