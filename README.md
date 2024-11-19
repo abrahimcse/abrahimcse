@@ -71,7 +71,7 @@ I am eager to leverage my deployment expertise and technical skills to drive eff
   <p align="center">
 If you're passionate about DevOps, automation, and building efficient systems, or if you're looking to collaborate on innovative projects, feel free to connect! Let’s drive the future of technology together.
 	
-   [![Linkedin Badge](https://img.shields.io/badge/-abrahimcse-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abrahimcse/)](https://www.linkedin.com/in/abrahimcse/) 
+   [![Linkedin Badge](https://img.shields.io/badge/-Abdur-Rahim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abrahimcse/)](https://www.linkedin.com/in/abrahimcse/) 
    [![Gmail Badge](https://img.shields.io/badge/-abrahimcse-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abrahimcse@gmail.com)](mailto:abrahimcse@gmail.com)
    [![Instagram Badge](https://img.shields.io/badge/-abrahimcse-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/abrahimcse1/)](https://instagram.com/abrahimcse1/) 
    [![Facebook Badge](https://img.shields.io/badge/-abrahimcse-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/abrahimcse/)](https://www.facebook.com/abrahimcse/)
