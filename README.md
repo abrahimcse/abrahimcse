@@ -5,7 +5,7 @@
 
 ### 💡Optimizing Workflows for a Smarter Tomorrow
 
-❤️‍🔥 **Passionate** about DevOps and committed to continuous learning and application of DevOps principles. Proficient in configuring firewalls, particularly within Linux environments. Experienced with Bahmni, OpenMRS, Odoo, SQL, and report design using BIRT and Jasper Reports.
+❤ **Passionate** about DevOps and committed to continuous learning and application of DevOps principles. Proficient in configuring firewalls, particularly within Linux environments. Experienced with Bahmni, OpenMRS, Odoo, SQL, and report design using BIRT and Jasper Reports.
 
 🔍**Interests:** DevOps, Linux system administration, automation, continuous integration and deployment (CI/CD), and cloud technologies.
 
