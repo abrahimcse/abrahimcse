@@ -55,6 +55,8 @@ I am eager to leverage my deployment expertise and technical skills to drive eff
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrahimcse&show_icons=true&locale=en&layout=compact" alt="abrahimcse" /></p>
 </div>
 
+### 📚 Training and Certifications 
+[Fundamentals of DevOps](https://learn.kodekloud.com/certificate/41cfd2dc-5212-46d1-be16-dff9c3ee5b29)
 ### GitHub Stats
 
 <div align="center">
