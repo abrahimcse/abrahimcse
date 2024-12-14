@@ -57,6 +57,19 @@ I am eager to leverage my deployment expertise and technical skills to drive eff
 
 ### 📚 Training and Certifications 
 1. [Fundamentals of DevOps](https://learn.kodekloud.com/certificate/41cfd2dc-5212-46d1-be16-dff9c3ee5b29)
+2. []()
+3. []()
+4. []()
+5. []()
+6. [Cybersecurity Compliance Framework, Standards & Regulations](https://www.coursera.org/account/accomplishments/certificate/SWR7PEXG7AJ2)
+7. [Introduction to Cybersecurity Tools & Cyber Attacks](https://www.credly.com/badges/25f1708c-d3b3-4835-940e-5d271afda5df?source=linked_in_profile)
+8. [Cybersecurity Awareness: Building Your Cybersecurity Vocabulary](https://www.linkedin.com/learning/certificates/7084ce5200444babbc9125c8b9690e683e409dcf4822be6b8fc87dc9d8041dc4)
+9. [Cybersecurity for Small and Medium Businesses: Essential Training](https://www.linkedin.com/learning/certificates/bfa7bda88ca4df68f6a3210610d86914728a90af502c5e3ca4462667c46a39aa)
+10. [Introduction to Cybersecurity](https://www.credly.com/badges/7626b69d-9480-40b9-bdf1-162c94533827?source=linked_in_profile)
+11. [Critical Thinking for Better Judgment and Decision-Making](https://www.linkedin.com/learning/certificates/d33bbe4b956b5a624b5efedd2612230a45683252d0e0fae5e9edd07160a04bc1)
+12. [Cisco Certified Network Associate Routing and Switching (CCNA)](https://www.linkedin.com/in/abrahimcse/details/certifications/)
+13. [Red Hat Certified Engineer (RHCE)](https://www.linkedin.com/in/abrahimcse/details/certifications/)
+14. [Red Hat Certified System Administrator (RHCSA)](https://www.linkedin.com/in/abrahimcse/details/certifications/)
 ### GitHub Stats
 
 <div align="center">
