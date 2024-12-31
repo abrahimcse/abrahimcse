@@ -1,28 +1,19 @@
 <h1 align="center">Hi 👋, I'm Abdur Rahim</h1>
-<h2 align="center">Deployment Engineer with 4+ years of Experience</h2>
+<h2 align="center">Deployment Engineer | 4+ Years of Experience | Passionate About DevOps</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abrahimcse&label=Profile%20views&color=0e75b6&style=flat" alt="abrahimcse" /> </p>
 
 ### 💡Optimizing Workflows for a Smarter Tomorrow
 
-❤ **Passionate** about DevOps and committed to continuous learning and application of DevOps principles. Proficient in configuring firewalls, particularly within Linux environments. Experienced with Bahmni, OpenMRS, Odoo, SQL, and report design using BIRT and Jasper Reports.
-
-🔍**Interests:** DevOps, Linux system administration, automation, continuous integration and deployment (CI/CD), and cloud technologies.
-
-Currently seeking a full-time position in the IT industry where I can leverage my creativity, analytical skills, problem-solving abilities, leadership experience, and effective communication.
-### 🎓Qualifications 
-- Extensive experience in deploying applications across various environments, ensuring smooth transitions from development to production.
-- Proficient in implementing CI/CD pipelines to automate deployment processes and enhance efficiency.
-- Strong knowledge of containerization and orchestration technologies, including Docker and Kubernetes, to optimize deployment workflows.
-- Skilled in configuring and managing cloud infrastructure to support scalable and reliable application deployment.
-	  
-I am eager to leverage my deployment expertise and technical skills to drive efficiency and innovation in progressive organizations. Let's collaborate to elevate deployment practices and enhance software delivery.
+I specialize in DevOps, Linux system administration, automation, and cloud technologies. Proficient in CI/CD pipelines, Docker, Kubernetes, and cloud infrastructure (AWS). With experience in Bahmni, OpenMRS, Odoo, SQL, BIRT, and Jasper Reports, I aim to streamline software delivery and drive innovation.
 
 ### 💻What I Do 
 - **End-to-End DevOps Practices :** Implementing CI/CD pipelines, infrastructure as code, and automation to streamline software delivery.
-- **Cloud Solutions:** Designing and managing cloud infrastructure AWS for scalable and reliable application hosting.
-- **Monitoring & Optimization :** Utilizing tools for performance monitoring and system optimization to ensure high availability and reliability.
+- **Cloud Solutions:** Scalable and reliable infrastructure on AWS.
+- **Performance Optimization:** Monitoring and ensuring high system availability.
 - **Collaboration & Culture :** Promoting a culture of collaboration between development and operations, fostering continuous improvement and innovation.
+
+🎯 Currently seeking full-time opportunities to leverage my skills and contribute to impactful projects.
 
 ### Familiar with the Languages and Tools
 
