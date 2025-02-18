@@ -71,7 +71,7 @@ I specialize in DevOps, Linux system administration, automation, and cloud techn
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=abrahimcse&show_icons=true&count_private=true&theme=nightowl" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=abrahimcse&theme=nightowl" />
+
     
 </div>
 
