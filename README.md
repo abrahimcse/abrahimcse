@@ -86,7 +86,7 @@ If you're passionate about DevOps, automation, and building efficient systems, o
    [![Gmail Badge](https://img.shields.io/badge/-abrahimcse-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abrahimcse@gmail.com)](mailto:abrahimcse@gmail.com)
    [![Instagram Badge](https://img.shields.io/badge/-abrahimcse-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/abrahimcse1/)](https://instagram.com/abrahimcse1/) 
    [![Facebook Badge](https://img.shields.io/badge/-abrahimcse-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/abrahimcse/)](https://www.facebook.com/abrahimcse/)
-   [![Twitter Badge](https://img.shields.io/badge/-@abrahimcse-1ca0f1?style=flat-square&labelColor=twitter&logoColor=white&link=https://twitter.com/abrahimcse)](https://twitter.com/abrahimcse)
+   [![Twitter Badge](https://img.shields.io/badge/-@abrahimcse-1ca0f1?style=flat-square&labelColor=twitter&logoColor=black&link=https://twitter.com/abrahimcse)](https://twitter.com/abrahimcse)
   </p>
 </div>
 <div align="center">
