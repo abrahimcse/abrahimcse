@@ -83,6 +83,7 @@ I specialize in DevOps, Linux system administration, automation, and cloud techn
 If you're passionate about DevOps, automation, and building efficient systems, or if you're looking to collaborate on innovative projects, feel free to connect! Let’s drive the future of technology together.
 	
    [![Linkedin Badge](https://img.shields.io/badge/-abrahimcse-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abrahimcse/)](https://www.linkedin.com/in/abrahimcse/) 
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-abrahimcse-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abrahimcse/)
    [![Gmail Badge](https://img.shields.io/badge/-abrahimcse-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abrahimcse@gmail.com)](mailto:abrahimcse@gmail.com)
    [![Instagram Badge](https://img.shields.io/badge/-abrahimcse-ee2a7b?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/abrahimcse1/)](https://instagram.com/abrahimcse1/) 
       [![Twitter Badge](https://img.shields.io/badge/-@abrahimcse-black?style=flat-square&labelColor=twitter&logoColor=white&link=https://twitter.com/abrahimcse)](https://twitter.com/abrahimcse)
