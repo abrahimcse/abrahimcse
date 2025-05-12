@@ -1,21 +1,36 @@
 <h1 align="center">Hi 👋, I'm Abdur Rahim</h1>
-<h2 align="center">Deployment Engineer | 4+ Years of Experience | Passionate About DevOps</h2>
+<h2 align="center">**Deployment Engineer | DevOps Enthusiast | Linux Admin | Automation Lover**</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abrahimcse&label=Profile%20views&color=0e75b6&style=flat" alt="abrahimcse" /> </p>
 
 ### 💡Optimizing Workflows for a Smarter Tomorrow
 
-I specialize in DevOps, Linux system administration, automation, and cloud technologies. Proficient in CI/CD pipelines, Docker, Kubernetes, and cloud infrastructure (AWS). With experience in Bahmni, OpenMRS, Odoo, SQL, BIRT, and Jasper Reports, I aim to streamline software delivery and drive innovation.
-
+I specialize in DevOps, cloud technologies, and hospital system automation. I’m passionate about building secure, scalable, and efficient infrastructures with a focus on CI/CD, containerization, and observability.
+---
 ### 💻What I Do 
-- **End-to-End DevOps Practices :** Implementing CI/CD pipelines, infrastructure as code, and automation to streamline software delivery.
-- **Cloud Solutions:** Scalable and reliable infrastructure on AWS.
-- **Performance Optimization:** Monitoring and ensuring high system availability.
-- **Collaboration & Culture :** Promoting a culture of collaboration between development and operations, fostering continuous improvement and innovation.
+- 🚀 **End-to-End DevOps Practices:** CI/CD pipelines, Infrastructure as Code, and automation.
+- ☁️ **Cloud Deployment:** Scalable solutions using AWS EC2, Docker, Kubernetes.
+- 📈 **Monitoring & Uptime:** Prometheus, Grafana, Node Exporter, Uptime Kuma.
+- 🛡️ **Security & Access:** Keycloak integration with APISIX for RBAC.
+- 🏥 **Hospital Automation:** Worked on Bahmni, OpenMRS, and Odoo-based solutions.
+- 📊 **Reporting:** Designed custom BIRT and JasperReports for healthcare use cases.
+- 🔁 **Collaboration:** Building DevOps culture with cross-functional teams.
 
 🎯 Currently seeking full-time opportunities to leverage my skills and contribute to impactful projects.
+---
+## 🏥 Major Projects
 
-### Familiar with the Languages and Tools
+### 🩺 **Health Services Management System (HSMS)**  
+Microservices-based health system deployed with Kubernetes, GitHub Actions, and full observability stack.
+
+### 📄 **Share Health Record (SHR)**  
+Enabled inter-hospital patient data sharing using unique health ID; deployed and supported on-premises systems.
+
+### 🏥 **Hospital Deployments in 75+ Facilities**  
+Deployed and maintained hospital systems in 15+ District Hospitals and 50+ Upazila Health Complexes across Bangladesh.
+---
+
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
 <div align="center">
