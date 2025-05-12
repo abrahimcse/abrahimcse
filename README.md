@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Abdur Rahim</h1>
-<h2 align="center">Deployment Engineer | DevOps Enthusiast | Linux Admin | Automation Lover</h2>
+<h2 align="center">Deployment Engineer | DevOps Enthusiast | Automation Lover</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abrahimcse&label=Profile%20views&color=0e75b6&style=flat" alt="abrahimcse" /> </p>
 
 ### 💡Optimizing Workflows for a Smarter Tomorrow
 
 I specialize in DevOps, cloud technologies, and hospital system automation. I’m passionate about building secure, scalable, and efficient infrastructures with a focus on CI/CD, containerization, and observability.
+
 ---
+
 ### 💻What I Do 
 - 🚀 **End-to-End DevOps Practices:** CI/CD pipelines, Infrastructure as Code, and automation.
 - ☁️ **Cloud Deployment:** Scalable solutions using AWS EC2, Docker, Kubernetes.
@@ -17,7 +19,9 @@ I specialize in DevOps, cloud technologies, and hospital system automation. I’
 - 🔁 **Collaboration:** Building DevOps culture with cross-functional teams.
 
 🎯 Currently seeking full-time opportunities to leverage my skills and contribute to impactful projects.
+
 ---
+
 ## 🏥 Major Projects
 
 ### 🩺 **Health Services Management System (HSMS)**  
@@ -28,6 +32,7 @@ Enabled inter-hospital patient data sharing using unique health ID; deployed and
 
 ### 🏥 **Hospital Deployments in 75+ Facilities**  
 Deployed and maintained hospital systems in 15+ District Hospitals and 50+ Upazila Health Complexes across Bangladesh.
+
 ---
 
 ## 🛠️ Tech Stack & Tools
