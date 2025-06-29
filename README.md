@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abdur Rahim</h1>
-<h2 align="center">Deployment Engineer | DevOps Enthusiast | Automation Lover</h2>
+<h2 align="center">DevOps Engineer | Automation Lover</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abrahimcse&label=Profile%20views&color=0e75b6&style=flat" alt="abrahimcse" /> </p>
 
 ### 💡Optimizing Workflows for a Smarter Tomorrow
 
-I specialize in DevOps, cloud technologies, and hospital system automation. I’m passionate about building secure, scalable, and efficient infrastructures with a focus on CI/CD, containerization, and observability.
+I specialize in building scalable, secure deployment solutions for both on-premises and cloud-based (AWS) environments. I thrive on automating complex workflows, managing microservices with Kubernetes, and ensuring system reliability using Prometheus, Grafana, and robust CI/CD pipelines (GitHub Actions, Argo CD).
 
 ---
 
