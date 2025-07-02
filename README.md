@@ -13,7 +13,7 @@ I specialize in building scalable, secure deployment solutions for both on-premi
 - 🚀 **End-to-End DevOps Practices:** CI/CD pipelines, Infrastructure as Code, and automation.
 - ☁️ **Cloud Deployment:** Scalable solutions using AWS EC2, Docker, Kubernetes.
 - 📈 **Monitoring & Uptime:** Prometheus, Grafana, Node Exporter, Uptime Kuma.
-- 🛡️ **Traffic Management & Security:** Configure NGINX and APISIX for load balancing, reverse proxy, and secure RBAC with Keycloak.
+- 🌐  **Traffic Management & Security:** NGINX, APISIX for load balancing and reverse proxy; RBAC with Keycloak.
 - 🏥 **Hospital Automation:** Worked on Bahmni, OpenMRS, and Odoo-based solutions.
 - 📊 **Reporting:** Designed custom BIRT and JasperReports for healthcare use cases.
 - 🔁 **Collaboration:** Building DevOps culture with cross-functional teams.
