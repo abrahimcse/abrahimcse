@@ -5,7 +5,7 @@
 
 ### 💡Optimizing Workflows for a Smarter Tomorrow
 
-I specialize in building scalable, secure deployment solutions for both on-premises and cloud-based (AWS) environments. I thrive on automating complex workflows, managing microservices with Kubernetes, and ensuring system reliability using Prometheus, Grafana, and robust CI/CD pipelines (GitHub Actions, Argo CD).
+I specialize in building scalable, secure deployment solutions for both on-premises and cloud-based (AWS) environments. I thrive on automating complex workflows, managing microservices with Kubernetes, and ensuring system reliability using Prometheus, Grafana, and robust CI/CD pipelines (GitHub Actions, Argo CD).I also configure NGINX as a load balancer to manage traffic efficiently across services.
 
 ---
 
@@ -13,7 +13,7 @@ I specialize in building scalable, secure deployment solutions for both on-premi
 - 🚀 **End-to-End DevOps Practices:** CI/CD pipelines, Infrastructure as Code, and automation.
 - ☁️ **Cloud Deployment:** Scalable solutions using AWS EC2, Docker, Kubernetes.
 - 📈 **Monitoring & Uptime:** Prometheus, Grafana, Node Exporter, Uptime Kuma.
-- 🛡️ **Security & Access:** Keycloak integration with APISIX for RBAC.
+- 🛡️ **Traffic Management & Security:** Configure NGINX and APISIX for load balancing, reverse proxy, and secure RBAC with Keycloak.
 - 🏥 **Hospital Automation:** Worked on Bahmni, OpenMRS, and Odoo-based solutions.
 - 📊 **Reporting:** Designed custom BIRT and JasperReports for healthcare use cases.
 - 🔁 **Collaboration:** Building DevOps culture with cross-functional teams.
