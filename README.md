@@ -11,7 +11,7 @@ I specialize in building scalable, secure deployment solutions for both on-premi
 
 ### 💻What I Do 
 
-🚀 **End-to-End DevOps Practices:** CI/CD pipelines, Infrastructure as Code, and automation.
+🚀 **End-to-End DevOps Practices:** CI/CD pipelines, Github Actions, ArgoCD, Infrastructure as Code, and automation.
 
 ☁️ **Cloud Deployment:** Scalable solutions using AWS EC2, Docker, Kubernetes.
 
@@ -32,7 +32,7 @@ I specialize in building scalable, secure deployment solutions for both on-premi
 ## 🏥 Major Projects
 
 ### 🩺 **Health Services Management System (HSMS)**  
-Microservices-based health system deployed with Kubernetes, GitHub Actions, and full observability stack.
+Microservices-based health system deployed with Kubernetes, Nginx, ApiSix, Keycloak, GitHub Actions, ArgoCD, Postgres, MongoDB, Kafka, Redis, Harbor and full observability stack.
 
 ### 📄 **Share Health Record (SHR)**  
 Enabled inter-hospital patient data sharing using unique health ID; deployed and supported on-premises systems.
@@ -69,9 +69,6 @@ Deployed and maintained hospital systems in 15+ District Hospitals and 50+ Upazi
 <code><img height="40" src= "https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></code>
 </div></p>
 
-<div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrahimcse&show_icons=true&locale=en&layout=compact" alt="abrahimcse" /></p>
-</div>
 
 ### 📚 Training and Certifications 
 - [Introduction to FinOps](https://verify.skilljar.com/c/ys4oxf25pjpp)
@@ -94,14 +91,7 @@ Deployed and maintained hospital systems in 15+ District Hospitals and 50+ Upazi
 - [Red Hat Certified Engineer (RHCE)](https://www.linkedin.com/in/abrahimcse/details/certifications/)
 - [Red Hat Certified System Administrator (RHCSA)](https://www.linkedin.com/in/abrahimcse/details/certifications/)
 - [Cisco Certified Network Associate Routing and Switching (CCNA)](https://www.linkedin.com/in/abrahimcse/details/certifications/)
-### GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=abrahimcse&show_icons=true&count_private=true&theme=nightowl" />
-
-    
-</div>
 
 --- 
 
